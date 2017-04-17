@@ -1,11 +1,12 @@
-##Anggota : ##     
-#Claudia (26415134)#    
-#Vivi Indra (26415141)#    
-#Ribka Kwandana (26415148)#     
+### Proposal Proyek
 
-###Proposal Proyek###
+## Anggota :       
+# Claudia (26415134)    
+# Vivi Indra (26415141)    
+# Ribka Kwandana (26415148)     
 
-###Judul : Bird migration movement in swarm optimization###
+
+### Judul : Bird migration movement in swarm optimization
 
 Deskripsi :
 Mengamati pergerakan migrasi dari burung. Jadi mengamati
