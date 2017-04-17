@@ -1,11 +1,11 @@
-##Anggota :
-#Claudia (26415134)
-#Vivi Indra (26415141)
-#Ribka Kwandana (26415148) 
+##Anggota : ##
+#Claudia (26415134)#    
+#Vivi Indra (26415141)#    
+#Ribka Kwandana (26415148)#     
 
-###Proposal Proyek
+###Proposal Proyek###
 
-####Judul : Bird migration movement in swarm optimization
+###Judul : Bird migration movement in swarm optimization###
 
 Deskripsi :
 Mengamati pergerakan migrasi dari burung. Jadi mengamati
@@ -17,7 +17,7 @@ selatan untuk menghindari musim panas.
 
 
 Rule: 
--Perpindahan diliat setiap hari selama 6 bulan 
--Sekumpulan burung dianggap sebagai 1 titik 
--Sekumpulan burung tidak bisa terbagi menjadi dua kelompok burung yang berbeda
--Burung menuju ke utara mulai bulan 2-6(puncak dibulan 5)  
+-Perpindahan diliat setiap hari selama 6 bulan     
+-Sekumpulan burung dianggap sebagai 1 titik     
+-Sekumpulan burung tidak bisa terbagi menjadi dua kelompok burung yang berbeda     
+-Burung menuju ke utara mulai bulan 2-6(puncak dibulan 5)     
