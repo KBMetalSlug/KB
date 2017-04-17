@@ -17,7 +17,7 @@ lebar. Kemudian, awal arah pergerakan mereka dimulai dari belahan bumi
 selatan untuk menghindari musim panas.
 
 
-Rule: 
+Rule:    
 -Perpindahan diliat setiap hari selama 6 bulan     
 -Sekumpulan burung dianggap sebagai 1 titik     
 -Sekumpulan burung tidak bisa terbagi menjadi dua kelompok burung yang berbeda     
